@@ -6,7 +6,7 @@ description: Teacher, Video Editor, Project Manager, Photographer, Aspiring Deve
 logo: favicon.png
 search: true
 url: http://gilmoursa.github.io
-
+comments: true
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -52,4 +52,3 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  comments: true
