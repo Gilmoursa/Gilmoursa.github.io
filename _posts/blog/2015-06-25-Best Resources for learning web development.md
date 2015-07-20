@@ -3,7 +3,7 @@ layout: post
 title:  "What do I really want to learn?"
 modified:
 categories: blog
-excerpt:
+excerpt: Before I could start learning about web development, I needed to consider what I really needed to learn and where I could find those resources.
 tags: [pre-work]
 image:
   feature:
