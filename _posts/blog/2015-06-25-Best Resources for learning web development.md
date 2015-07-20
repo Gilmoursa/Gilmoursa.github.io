@@ -8,6 +8,7 @@ tags: [pre-work]
 image:
   feature: htmlcss.jpg
 date: 2015-06-25T15:39:55-04:00
+share:on
 ---
 
 Over the past few weeks, and continuing into the forseeable future, I have been working tirelessly to learn as much as I can about web development, but what does that really mean? Web development is such a broad category encompassing numerous languages, frameworks, and tools. If I intended to get anywhere with my studies, I had to narrow my list down to what I needed to learn. I scavenged the curriculum pages of as many web development bootcamps as I could find. The most commonly taught concepts I wrote down and decided to focus on. I whittled the list down to **HTML/CSS, Ruby, Ruby on Rails,** and **SQL**.
