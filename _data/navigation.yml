@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Travel
+  url: http://www.austingilmour.com/blog
+
+- title: Search
+  url: /search/
