@@ -8,7 +8,7 @@ tags: [pre-work]
 image:
   feature:
 date: 2015-05-16T15:39:55-04:00
-share: on
+share: true
 ---
 
 Recently, **I decided to leave Korea after my contract ends**. I debated staying for a third year, but in the end, two years seems like enough. I’ve had a great time here. I’ve met tons of friends. I’ve traveled all over Southeast Asia, and gotten paid to do it, but after two years, I’m ready to return to the states and so my journey begins. What will I do when I return to the US?
