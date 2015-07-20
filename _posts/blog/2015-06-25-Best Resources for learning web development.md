@@ -6,7 +6,7 @@ categories: blog
 excerpt: Before I could start learning about web development, I needed to consider what I really needed to learn and where I could find those resources.
 tags: [pre-work]
 image:
-  feature:
+  feature: htmlcss.jpg
 date: 2015-06-25T15:39:55-04:00
 ---
 
