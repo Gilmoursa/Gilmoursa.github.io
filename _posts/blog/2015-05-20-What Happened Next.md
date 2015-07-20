@@ -6,7 +6,7 @@ categories: blog
 excerpt: After accepting at Flatiron, the real work began.
 tags: [pre-work]
 image:
-  feature:
+  feature: bg-2.jpg
 date: 2015-05-20T15:39:55-04:00
 share: true
 ---

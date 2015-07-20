@@ -6,7 +6,7 @@ categories: blog
 excerpt: With so many development bootcamps popping up, how can I choose the right one?
 tags: [pre-work]
 image:
-  feature:
+  feature: bg-1.jpg
 date: 2015-05-16T15:39:55-04:00
 share: true
 ---
@@ -23,7 +23,7 @@ After learning about [web development bootcamps](http://www.npr.org/blogs/ed/201
 RefactorU looked like a great program. It was less expensive than the NY-based programs. It was in **Colorado**. They emphasized not wanting to burn people out. One thing that concerned me were the many typos on their site. It made me question how professional their program really was if they couldn’t check their own work. I often make typos here on my blog, but I’m not charging tuition. Their **coding challenge** was incredibly easy as well, even for me with little background in any sort of coding. I watched their graduate showcase on [youtube](https://www.youtube.com/user/RefactorU) and while some of the projects were incredible, some of them were just alright. Ultimately, I think **RefactorU** probably has a great program and they probably take people starting at a lower level than where I was starting at, but it’s not the program for me.
 
 <figure>
-	<a href="http://www.appacademy.io"><img src="/images/appacademy.jpeg" alt="App Academy"></a>
+	<a href="http://www.appacademy.io"><img src="/images/appacademy.jpg" alt="App Academy"></a>
 </figure>
 If the porridge was too cold at RefactorU, it was too hot at **App Academy**. App Academy is a bootcamp with campuses in **New York City** and **San Fransisco**. It has regular assessments as part of its curriculum and students who fail the assessments are asked to leave. I read stories of 4 out of 20 people in a cohort being asked to leave. App Academy has a very high salary and job placement rate as a result of cutting the stragglers in it’s program loose. They also charge only **$3,000 upfront**. However, they take **18% of your first year salary.**
 
