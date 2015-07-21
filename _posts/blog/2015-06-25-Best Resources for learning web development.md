@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What do I really want to learn?"
+title:  "What do I need to learn?"
 modified:
 categories: blog
 excerpt: Before I could start learning about web development, I needed to consider what I really needed to learn and where I could find those resources.
@@ -17,7 +17,7 @@ Over the past few weeks, and continuing into the forseeable future, I have been 
 I wanted to focus on Javascript, and after Flatiron School, I probably will. However, Flatiron focuses on Ruby and I don't want to confuse my syntax trying to learn two languages simultaneously.
 
 ##HTML/CSS
-The web runs on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets). **HTML**, or **H**yper**t**ext **M**arkup **L**anguage, was created in 1993, arguably one of the most influential years in hip-hop (unrelated). Over the years, HTML has undergone numerous revisions and is currently on [HMTL5](https://en.wikipedia.org/wiki/HTML5) with a draft of 5.1 expected at the end of 2016. **CSS**, or **C**ascading **S**tyle **S**heets, was invented 3 years after HTML, in 1996. It has undergone fewer revisions or standards and is currently on [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3). 
+The web runs on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets). **HTML**, or **H**yper**t**ext **M**arkup **L**anguage, was created in 1993, arguably one of the [most influential years in hip-hop](http://www.npr.org/series/172716049/hip-hops-golden-year) (unrelated). Over the years, HTML has undergone numerous revisions and is currently on [HMTL5](https://en.wikipedia.org/wiki/HTML5) with a draft of 5.1 expected at the end of 2016. **CSS**, or **C**ascading **S**tyle **S**heets, was invented 3 years after HTML, in 1996. It has undergone fewer revisions or standards and is currently on [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3). 
 
 ###How do they work together?
 HTML is the content of your site. It's where your facts, figures, opinions, information, and graphics go. CSS makes your HMTL look nice. It's formatting, coloring, italicizing, arranging, organizing.
