@@ -4,7 +4,7 @@ title: "Package Control"
 modified:
 categories: blog
 excerpt: "What's this package control everyone's going on about?"
-tags: [pre-work, bash]
+tags: [Flatiron, Sublime Text, Package Control]
 image:
   feature: bg-3.jpg
 date: 2015-10-05T08:00:00-04:00
@@ -77,6 +77,13 @@ brackethighlighter
 	<li></li>
 	<li></li>
 </ul>```
+
+- [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter) is a great plugin for anyone who hasn't memorized the 16,777,216 hexadecimal colors, so most of us. It highlights any color in your code whether it's hexadecimal, RGB, or just written out like 'blue'. It also allows you to select colors using a color picker window.
+
+<figure>
+	<img src="https://packagecontrol.io/readmes/img/615c2ee186f0734ef5d8d8f841fb5ab20ba6e9b0.gif">
+</figure>
+
 
 
 
