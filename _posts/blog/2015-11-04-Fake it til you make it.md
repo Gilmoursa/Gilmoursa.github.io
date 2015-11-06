@@ -18,8 +18,6 @@ An important part of any good program, or project for that matter, is testing. I
 ###Get that data
 Where are you going to get all that data? It's not like there's a ruby gem that randomly generates oodles of data. Actually there is. It's called [Faker](https://github.com/stympy/faker). The Faker gem is a port of the popular Perl Data::Faker library and it generates some awesome fake data. 
 
-<iframe src="//giphy.com/embed/rIq6ASPIqo2k0" width="480" height="430" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 ###I love fake data, but I'm a discerning consumer, tell me more.
 You can use Faker to make fake names, emails, addresses, cities, street names, secondary addresses, building numbers, zipcodes, time zones, postal codes, countries, bitcoin addresses, credit card numbers, isbns, colors, departments, logos, dates, ip addresses, lorem ipsum, numbers, decimals, phone numbers and many more. All of these can be generated with a simple bit of code like:
 
