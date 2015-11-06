@@ -43,8 +43,8 @@ Now that we're working with a clean slate. Let's make some data. I like to use a
 - Add it to your `GemFile`
 - run `bundle` or `bundle install` if you've got key strokes to burn.
 
-Now let's pair **Fabrication** with **Faker**. To generate 300 fake people we must first create a recipe for our fake person. The person below has a name, email, and password. Pretty straight forward. Take a look below.
+Now let's pair **Fabrication** with **Faker**. To generate 300 fake people we must first create a recipe for our fake person. The person below has a name, email, and password. Pretty straight forward. Take a look.
 <script src="https://gist.github.com/Gilmoursa/22ce989e0045a8cb2c56.js"></script>
 
-Generating 300 instances of this fake person, each with their own unique hopes and desires, or at least names and email addresses is even easier. Just run this `10.times {Fabricate(:user)}`
+Generating 300 instances of this fake person, each with their own unique hopes and desires, or at least names and email addresses is even easier. Just run this `300.times {Fabricate(:user)}`
 
