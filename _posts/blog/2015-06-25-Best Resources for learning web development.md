@@ -59,7 +59,7 @@ They have a fun series of tutorials based around a Twitter clone for Zombies. I'
 This week I will be starting Codecademy's Rails track and I'm really looking forward to it. Like I said before, I really enjoy their pacing and depth into each language.
 
 ##SQL
-SQL or Structured Query Language is a language for working with relational databases. What are relatonal databases? They're databases that relate to each other based on an id column with a value unique to each row, called a primary key. I like SQL, I haven't delved too deep into it yet, but from what I've learned so far, it seems pretty simple and even more user friendly than Ruby. Giving instructions in SQL feels like typing regular sentences in English.
+SQL or Structured Query Language is a language for working with relational databases. What are relatonal databases? They're databases that relate to each other based on an id column with a value unique to each row, called a primary key. I like SQL, I haven't delved too deep into it yet, but from what I've learned so far, it seems pretty simple and even more user friendly than Ruby. Giving instructions in SQL feels like typing regular sentences in English. Ruby uses SQLite3 for development and test databases. However, you cannot use SQLite3 in a production environment so many web app hosts require you to use Postgres or another database.
 
 ###Learning Resources
 
