@@ -4,7 +4,7 @@ title: "Fake it til you make it!"
 modified:
 categories: blog
 excerpt: "Why fake people are better than real people."
-tags: [Flatiron, Pair Programming]
+tags: [Flatiron, Objects, Ruby, Faker, Fabrication]
 image:
   feature: bg-2.jpg
 date: 2015-11-04T08:00:00-04:00
