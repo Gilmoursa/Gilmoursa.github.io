@@ -25,18 +25,18 @@ Let's start at the beginning. You open your browser and enter a URL. The browser
 ####Controllers
 A controller is a list of instructions. It exists between the request and the response, for example, some sort of view (more on views later). The router will direct you to the right controller and then the router's job is done. The controller, then directs the request to the correct action. There are seven actions:
 
- - index - GET which shows all of whatever resource (blog posts, images, students)
- - show - GET which shows a selected resource (the 5th student, the 2nd image)
- - new - GET displays the form to make a new resource
- - create - POST saves a new resource
- - edit - GET show the form to make changes to a selected resource
- - update - POST saves changes to a selected resource (notice the distinction between this and edit)
- - destroy - deletes a given resource 
+ - **index** - GET which shows all of whatever resource (blog posts, images, students)
+ - **show** - GET which shows a selected resource (the 5th student, the 2nd image)
+ - **new** - GET displays the form to make a new resource
+ - **create** - POST saves a new resource
+ - **edit** - GET show the form to make changes to a selected resource
+ - **update** - POST saves changes to a selected resource (notice the distinction between this and edit)
+ - **destroy** - deletes a given resource 
 
 Once the action is completed, the action will direct you to a response of some kind. This could be HTML or JSON.
 
 ####Views 
- Views are like templates or layouts for what a page will look like and display to you. A view is composed of html and erb. Erb is embedded Ruby and it's a way of injecting ruby code into html pages Erb elements will be wrapped in `<%` `%>` tags or `<%=` `%> if you want the code to be visible. 
+ Views are like templates or layouts for what a page will look like and display to you. A view is composed of html and erb. Erb is embedded Ruby and it's a way of injecting ruby code into html pages Erb elements will be wrapped in `<%` `%>` tags or `<%=` `%>` if you want the code to be visible. 
 
  The HTML will format the various ruby components, such as putting a Ruby variable inside an `<H3>` tag or iterating through a set of data using the `each` method and formatting each item within `<li>` tags.
 
