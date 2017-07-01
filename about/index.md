@@ -9,9 +9,9 @@ image:
   creditlink: http://www.austingilmour.com/blog
 ---
 
-I’m Austin Gilmour
-an effective project manager
-passionate customer support specialist
+I’m Austin Gilmour,
+an effective project manager,
+passionate customer support specialist,
 and skilled developer
 
 ### Contact me
